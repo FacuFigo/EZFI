@@ -1,0 +1,8 @@
+<Learn requiere switch: ClaseMago>, etc. Esto hay que hacerlo para que no se crucen los demás skills, se pone en el notetag eso y se crean
+los switch(interruptores globales) según la clase que se elige y cuando se elije la clase se pone showSkill nose que para que este el 
+comando y ahí ya se hace para los demás eso que pueda elegir los skill de su clase.
+-------------------------------------------------------HISTORIA---------------------------------------------------------------------------
+
+Llegamos a zorolan, luego de tener una regresión del pasado donde salíamos de la casa de un ancestro nuestro, y vemos en la plaza central
+que aparece un Imp, algo raro dado que en los últimos 300 años no se avistaban seres hostiles en las cercanías de la ciudad.
+   Un protector llamado Soren pelea contra el imp y nos da un entrenamiento explicando los conceptos básicos de pelea.

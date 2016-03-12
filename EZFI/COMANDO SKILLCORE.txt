@@ -1,0 +1,27 @@
+<HP Cost: x>
+Changes the skill to have x as its HP cost. RPG Maker MV’s editor lacks HP cost functions so this would allow skills to use HP as their cost.
+
+<HP Cost: x%>
+Changes the skill to cost a percentage of the character’s MaxHP value.
+
+<MP Cost: x>
+Changes the skill to have x as its MP cost. This helps bypass the database’s hard limit of 9999.
+
+<MP Cost: x%>
+Changes the skill to cost a percentage of the character’s MaxMP value.
+
+<TP Cost: x>
+Changes the skill to have x as its TP cost. This helps bypass the database’s hard limit of 99.
+
+<TP Cost: x%>
+Changes the skill to cost a percentage of the character’s MaxTP value. Although the default MaxTP is 100, this tag will be useful for any plugins that will alter a character’s MaxTP values.
+
+<Hide in Battle>
+This will hide and disable the skill during battle.
+
+<Hide in Field>
+This will hide and disable the skill outside of battle.
+
+<Hide if Learned Skill: x>
+<Hide if Learned Skill: x, x, x>
+<Hide if Learned Skill: x to y>
